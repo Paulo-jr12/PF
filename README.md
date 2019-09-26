@@ -1,2 +1,2 @@
 # PF
-Progamacao funcional - UFU 
+Lista de Exercicios Resolvidos da disciplina de Progamacao funcional - UFU 
